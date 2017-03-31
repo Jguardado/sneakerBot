@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jguardado/sneakerBot/issues"
   },
-  "homepage": "https://github.com/Jguardado/sneakerBot#readme"
+  "homepage": "https://github.com/Jguardado/sneakerBot#readme",
+  "devDependencies": {
+    "twitter": "^1.7.0"
+  }
 }
